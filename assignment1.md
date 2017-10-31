@@ -60,6 +60,6 @@ Flow of events:
 Alternate Flow of Events: None
 Special Requirement: None
 
-## use case diagram
+## 3. use case diagram
 
 ![](lucid.png)
