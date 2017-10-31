@@ -1,3 +1,5 @@
+# CS3733 Assignment 1 Keshuai Xu
+
 # Part 1
 
 ## 1. Epic
@@ -12,7 +14,7 @@ As a user, I want to jump back to the beginning of the current song so I can hea
 
 ## 3. Storyboard + 4. ui mockup
 
-
+![](Untitled-1.png)
 
 # Use case
 
@@ -57,3 +59,7 @@ Flow of events:
     shows song list
 Alternate Flow of Events: None
 Special Requirement: None
+
+## use case diagram
+
+![](lucid.png)
