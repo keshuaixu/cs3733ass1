@@ -23,7 +23,7 @@ As a user, I want to jump back to the beginning of the current song so I can hea
 Alice is a music player user. She is listening music. She finds a song currently playing interesting. She hits rewind button. The current song plays from beginning.
 
 ## 2. Textual use cases
-
+```yaml
 Name: Play
 Participating actor: User
 Entry condition: 
@@ -35,7 +35,8 @@ Flow of events:
     Song plays.
 Alternate Flow of Events: Song broken
 Special Requirement: None
-
+```
+```yaml
 Name: Rewind
 Participating actor: User
 Entry condition: 
@@ -47,7 +48,8 @@ Flow of events:
     Song rewinds to beginning and plays.
 Alternate Flow of Events: None
 Special Requirement: None
-
+```
+```yaml
 Name: Cancel
 Participating actor: User
 Entry condition: 
@@ -59,7 +61,7 @@ Flow of events:
     shows song list
 Alternate Flow of Events: None
 Special Requirement: None
-
+```
 ## 3. use case diagram
 
 ![](lucid.png)
